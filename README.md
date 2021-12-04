@@ -49,7 +49,7 @@ Given below are the steps taken to build the app:
 - Flask Framework
 - Spyder IDE
 - Heroku
-- ML model : Random Forest Regressor + hyperparameters tuning(Randomized CV) ( Selected )
+- ML model : Random Forest Regressor + Hyperparameter Tuning(Randomized CV) ( Selected )
 - Multiple Linear Regression
 -	SVM(To be Done)
 - Libraries: pandas, numpy, seaborn, matplotlib, sk-learn, etc.
