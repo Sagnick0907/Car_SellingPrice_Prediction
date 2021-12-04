@@ -53,4 +53,3 @@ Given below are the steps taken to build the app:
 - Multiple Linear Regression
 -	SVM(To be Done)
 - Libraries: pandas, numpy, seaborn, matplotlib, sk-learn, metrics, etc.
-
