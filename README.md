@@ -28,17 +28,16 @@ Given below are the steps taken to build the app:
 	- Created a base RandomForestRegressor() model along with various parameters and “random_grid” as param_distributions (Randomized Search CV).
 	- Training & Testing was done.
 	- From sklearn we imported metrics to calculate how good our model was which is as follows:  
-   Accuracy using Multiple Linear Regression :  
-   r2 score is: 0.8517983059778264  
-   MAE: 1.2426713915033707  
-   MSE: 4.432128265667618  
-   RMSE: 2.105262042043132  
-   
-   Accuracy using random forest regressor using randomizedCV :  
-   r2 score is: 0.8670971735039767  
-   MAE: 0.8876565934065918  
-   MSE: 3.9745994658604404  
-   RMSE: 1.993639753280527  
+   		- Accuracy using Multiple Linear Regression :  
+   		r2 score is: 0.8517983059778264  
+   		MAE: 1.2426713915033707  
+   		MSE: 4.432128265667618  
+   		RMSE: 2.105262042043132  
+   		- Accuracy using random forest regressor using randomizedCV :  
+   		r2 score is: 0.8670971735039767  
+   		MAE: 0.8876565934065918  
+   		MSE: 3.9745994658604404  
+   		RMSE: 1.993639753280527  
 
 3. Created a pickle file.
 4. Created the requirements.txt file.
