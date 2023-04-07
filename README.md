@@ -9,6 +9,8 @@
 
 ## Demo
 Link : https://carsellingpricepredictor0907.herokuapp.com/ 
+![Img CSP 1](https://user-images.githubusercontent.com/76872499/230558441-99055d5d-520d-45b2-8f59-d08ff75bb890.png)
+
 ## Overview
 This is a simple **Car Selling Price Flask App** trained with Random Forest Regressor. The trained model takes various parameters (years of service, kilometres driven, no. of previous owners, etc.) as an input from user and predicts the approximate Selling Price for that car.
 ## Motivation and Goal
