@@ -8,7 +8,6 @@
   * [Technologies Used](#technologies-used)
 
 ## Demo
-Link : https://carsellingpricepredictor0907.herokuapp.com/ 
 ![Img CSP 1](https://user-images.githubusercontent.com/76872499/230558441-99055d5d-520d-45b2-8f59-d08ff75bb890.png)
 
 ## Overview
